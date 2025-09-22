@@ -18,8 +18,17 @@ Maintain a clean and organized repo for revision
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0205-isomorphic-strings) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3242-count-elements-with-maximum-frequency) |
 ## String
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0205-isomorphic-strings) |
+## Array
+|  |
+| ------- |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3242-count-elements-with-maximum-frequency) |
+## Counting
+|  |
+| ------- |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3242-count-elements-with-maximum-frequency) |
 <!---LeetCode Topics End-->
