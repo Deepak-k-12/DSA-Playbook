@@ -18,6 +18,7 @@ Maintain a clean and organized repo for revision
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0205-isomorphic-strings) |
+| [0387-first-unique-character-in-a-string](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0387-first-unique-character-in-a-string) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## String
@@ -25,6 +26,7 @@ Maintain a clean and organized repo for revision
 | ------- |
 | [0165-compare-version-numbers](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0165-compare-version-numbers) |
 | [0205-isomorphic-strings](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0205-isomorphic-strings) |
+| [0387-first-unique-character-in-a-string](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0387-first-unique-character-in-a-string) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Array
 |  |
@@ -33,6 +35,7 @@ Maintain a clean and organized repo for revision
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0387-first-unique-character-in-a-string) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Two Pointers
@@ -47,4 +50,8 @@ Maintain a clean and organized repo for revision
 |  |
 | ------- |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
