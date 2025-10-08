@@ -33,6 +33,7 @@ Maintain a clean and organized repo for revision
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Counting
 |  |
@@ -45,6 +46,7 @@ Maintain a clean and organized repo for revision
 | ------- |
 | [0165-compare-version-numbers](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0165-compare-version-numbers) |
 | [0392-is-subsequence](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0392-is-subsequence) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Greedy
 |  |
 | ------- |
@@ -52,6 +54,7 @@ Maintain a clean and organized repo for revision
 ## Sorting
 |  |
 | ------- |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Queue
 |  |
@@ -82,4 +85,8 @@ Maintain a clean and organized repo for revision
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0392-is-subsequence) |
+## Binary Search
+|  |
+| ------- |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2392-successful-pairs-of-spells-and-potions) |
 <!---LeetCode Topics End-->
