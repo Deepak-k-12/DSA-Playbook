@@ -89,4 +89,20 @@ Maintain a clean and organized repo for revision
 |  |
 | ------- |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2392-successful-pairs-of-spells-and-potions) |
+## Tree
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0404-sum-of-left-leaves) |
+## Depth-First Search
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0404-sum-of-left-leaves) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0404-sum-of-left-leaves) |
+## Binary Tree
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0404-sum-of-left-leaves) |
 <!---LeetCode Topics End-->
