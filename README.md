@@ -45,6 +45,7 @@ Maintain a clean and organized repo for revision
 | [3242-count-elements-with-maximum-frequency](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 ## Counting
 |  |
 | ------- |
@@ -108,6 +109,7 @@ Maintain a clean and organized repo for revision
 |  |
 | ------- |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 ## Tree
 |  |
 | ------- |
