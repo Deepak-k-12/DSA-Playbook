@@ -26,6 +26,7 @@ Maintain a clean and organized repo for revision
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
+| [4080-smallest-missing-multiple-of-k](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/4080-smallest-missing-multiple-of-k) |
 ## String
 |  |
 | ------- |
@@ -61,6 +62,7 @@ Maintain a clean and organized repo for revision
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [4080-smallest-missing-multiple-of-k](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Counting
 |  |
 | ------- |
