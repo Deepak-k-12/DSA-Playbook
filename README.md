@@ -26,6 +26,7 @@ Maintain a clean and organized repo for revision
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
+| [4045-longest-balanced-subarray-i](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/4045-longest-balanced-subarray-i) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/4080-smallest-missing-multiple-of-k) |
 ## String
 |  |
@@ -62,6 +63,7 @@ Maintain a clean and organized repo for revision
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [4045-longest-balanced-subarray-i](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/4045-longest-balanced-subarray-i) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Counting
 |  |
@@ -162,6 +164,7 @@ Maintain a clean and organized repo for revision
 |  |
 | ------- |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [4045-longest-balanced-subarray-i](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/4045-longest-balanced-subarray-i) |
 ## Stack
 |  |
 | ------- |
@@ -200,4 +203,12 @@ Maintain a clean and organized repo for revision
 |  |
 | ------- |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [4045-longest-balanced-subarray-i](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/4045-longest-balanced-subarray-i) |
+## Segment Tree
+|  |
+| ------- |
+| [4045-longest-balanced-subarray-i](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/4045-longest-balanced-subarray-i) |
 <!---LeetCode Topics End-->
