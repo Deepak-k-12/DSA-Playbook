@@ -49,6 +49,7 @@ Maintain a clean and organized repo for revision
 | ------- |
 | [0039-combination-sum](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0090-subsets-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -190,6 +191,7 @@ Maintain a clean and organized repo for revision
 | ------- |
 | [0039-combination-sum](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0090-subsets-ii) |
