@@ -31,6 +31,7 @@ Maintain a clean and organized repo for revision
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0014-longest-common-prefix) |
 | [0165-compare-version-numbers](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0165-compare-version-numbers) |
 | [0205-isomorphic-strings](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0387-first-unique-character-in-a-string) |
@@ -47,6 +48,7 @@ Maintain a clean and organized repo for revision
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0014-longest-common-prefix) |
 | [0039-combination-sum](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0046-permutations) |
@@ -238,4 +240,8 @@ Maintain a clean and organized repo for revision
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0918-maximum-sum-circular-subarray) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
