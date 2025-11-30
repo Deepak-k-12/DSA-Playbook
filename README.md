@@ -55,6 +55,7 @@ Maintain a clean and organized repo for revision
 | [0047-permutations-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0090-subsets-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0300-longest-increasing-subsequence) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0918-maximum-sum-circular-subarray) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -153,12 +154,14 @@ Maintain a clean and organized repo for revision
 ## Dynamic Programming
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0392-is-subsequence) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0918-maximum-sum-circular-subarray) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Binary Search
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0300-longest-increasing-subsequence) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 ## Tree
