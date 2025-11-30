@@ -55,6 +55,7 @@ Maintain a clean and organized repo for revision
 | [0047-permutations-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0090-subsets-ii) |
+| [0204-count-primes](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0204-count-primes) |
 | [0300-longest-increasing-subsequence](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0300-longest-increasing-subsequence) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0918-maximum-sum-circular-subarray) |
@@ -113,6 +114,7 @@ Maintain a clean and organized repo for revision
 ## Math
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0204-count-primes) |
 | [0390-elimination-game](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0390-elimination-game) |
 | [0415-add-strings](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0415-add-strings) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -199,6 +201,7 @@ Maintain a clean and organized repo for revision
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0204-count-primes) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Backtracking
 |  |
@@ -214,6 +217,7 @@ Maintain a clean and organized repo for revision
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0204-count-primes) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Bit Manipulation
 |  |
