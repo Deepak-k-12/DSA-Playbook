@@ -24,6 +24,7 @@ Maintain a clean and organized repo for revision
 | [3242-count-elements-with-maximum-frequency](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3606-coupon-code-validator](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [4045-longest-balanced-subarray-i](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/4045-longest-balanced-subarray-i) |
@@ -44,6 +45,7 @@ Maintain a clean and organized repo for revision
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2211-count-collisions-on-a-road](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2211-count-collisions-on-a-road) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [3606-coupon-code-validator](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3606-coupon-code-validator) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Array
@@ -75,6 +77,7 @@ Maintain a clean and organized repo for revision
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3606-coupon-code-validator](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -107,6 +110,7 @@ Maintain a clean and organized repo for revision
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [3606-coupon-code-validator](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3606-coupon-code-validator) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Queue
 |  |
