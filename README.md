@@ -125,6 +125,7 @@ Maintain a clean and organized repo for revision
 ## Math
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0060-permutation-sequence) |
 | [0204-count-primes](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0204-count-primes) |
 | [0390-elimination-game](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0390-elimination-game) |
 | [0415-add-strings](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0415-add-strings) |
@@ -168,6 +169,7 @@ Maintain a clean and organized repo for revision
 ## Recursion
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0060-permutation-sequence) |
 | [0390-elimination-game](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0390-elimination-game) |
 ## Dynamic Programming
 |  |
