@@ -39,6 +39,7 @@ Maintain a clean and organized repo for revision
 | [0392-is-subsequence](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0434-number-of-segments-in-a-string) |
+| [0784-letter-case-permutation](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0784-letter-case-permutation) |
 | [0874-backspace-string-compare](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0874-backspace-string-compare) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0944-delete-columns-to-make-sorted) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -232,6 +233,7 @@ Maintain a clean and organized repo for revision
 | [0077-combinations](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0090-subsets-ii) |
+| [0784-letter-case-permutation](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0784-letter-case-permutation) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Enumeration
 |  |
@@ -245,6 +247,7 @@ Maintain a clean and organized repo for revision
 | ------- |
 | [0078-subsets](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0090-subsets-ii) |
+| [0784-letter-case-permutation](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0784-letter-case-permutation) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Linked List
 |  |
