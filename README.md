@@ -17,6 +17,7 @@ Maintain a clean and organized repo for revision
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0037-sudoku-solver) |
 | [0205-isomorphic-strings](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0387-first-unique-character-in-a-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -54,6 +55,7 @@ Maintain a clean and organized repo for revision
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0014-longest-common-prefix) |
+| [0037-sudoku-solver](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0046-permutations) |
@@ -219,6 +221,7 @@ Maintain a clean and organized repo for revision
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0037-sudoku-solver) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -230,6 +233,7 @@ Maintain a clean and organized repo for revision
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0046-permutations) |
