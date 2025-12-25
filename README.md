@@ -78,6 +78,7 @@ Maintain a clean and organized repo for revision
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -110,6 +111,7 @@ Maintain a clean and organized repo for revision
 | ------- |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3745-maximize-expression-of-three-elements) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Sorting
@@ -121,6 +123,7 @@ Maintain a clean and organized repo for revision
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3606-coupon-code-validator](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3606-coupon-code-validator) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3745-maximize-expression-of-three-elements) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
