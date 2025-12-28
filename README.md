@@ -71,6 +71,7 @@ Maintain a clean and organized repo for revision
 | [0918-maximum-sum-circular-subarray](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0918-maximum-sum-circular-subarray) |
 | [0941-valid-mountain-array](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0941-valid-mountain-array) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0944-delete-columns-to-make-sorted) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -195,6 +196,7 @@ Maintain a clean and organized repo for revision
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0300-longest-increasing-subsequence) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 ## Tree
@@ -229,6 +231,7 @@ Maintain a clean and organized repo for revision
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0037-sudoku-solver) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2343-count-unguarded-cells-in-the-grid) |
