@@ -21,6 +21,7 @@ Maintain a clean and organized repo for revision
 | [0037-sudoku-solver](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0037-sudoku-solver) |
 | [0205-isomorphic-strings](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0387-first-unique-character-in-a-string) |
+| [0840-magic-squares-in-grid](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0840-magic-squares-in-grid) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -71,6 +72,7 @@ Maintain a clean and organized repo for revision
 | [0204-count-primes](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0204-count-primes) |
 | [0300-longest-increasing-subsequence](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0300-longest-increasing-subsequence) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0840-magic-squares-in-grid](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0840-magic-squares-in-grid) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0918-maximum-sum-circular-subarray) |
 | [0941-valid-mountain-array](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0941-valid-mountain-array) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0944-delete-columns-to-make-sorted) |
@@ -146,6 +148,7 @@ Maintain a clean and organized repo for revision
 | [0390-elimination-game](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0390-elimination-game) |
 | [0415-add-strings](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0415-add-strings) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0840-magic-squares-in-grid](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0840-magic-squares-in-grid) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1642-water-bottles](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1817-calculate-money-in-leetcode-bank) |
@@ -235,6 +238,7 @@ Maintain a clean and organized repo for revision
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0037-sudoku-solver) |
+| [0840-magic-squares-in-grid](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2244-number-of-laser-beams-in-a-bank) |
