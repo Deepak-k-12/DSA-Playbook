@@ -1,31 +1,23 @@
 class Solution {
     public String getPermutation(int n, int k) {
-        StringBuilder str=new StringBuilder();
-        for(int i=1;i<=n;i++){
-            str.append(i);
+        List<Integer> demo=new ArrayList<>();
+        int f=1;
+        for(int i=1;i<n;i++){
+            demo.add(i);
+            f*=i;
         }
-        ArrayList<String> ans=new ArrayList<>();
-        check(0,str,ans,k);
-        return ans.get(ans.size()-1);
-
+        demo.add(n);
+        k=k-1;
+        String ans="";
+        while(true){
+            ans+=demo.get(k/f);
+            demo.remove(k/f);
+            if(demo.size()==0){
+                break;
+            }
+            k=k%f;
+            f=f/demo.size();
+        }
+        return ans;
     }
-
-    public void check(int ind,StringBuilder str,ArrayList<String> ans,int k){
-        if(ind==str.length()){
-            ans.add(str.toString());
-            return;
-        }
-        if(ans.size()==k){return;}
-        
-        for(int i=ind;i<str.length();i++){
-            char c=str.charAt(i);
-            str.deleteCharAt(i);
-            str.insert(ind,c);
-            check(ind+1,str,ans,k);
-            str.deleteCharAt(ind);
-            str.insert(i,c);
-        }
-    }
-
-   
 }
