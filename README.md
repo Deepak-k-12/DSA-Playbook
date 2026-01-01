@@ -146,6 +146,7 @@ Maintain a clean and organized repo for revision
 | ------- |
 | [0060-permutation-sequence](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0204-count-primes) |
 | [0390-elimination-game](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0390-elimination-game) |
 | [0415-add-strings](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0415-add-strings) |
@@ -196,6 +197,7 @@ Maintain a clean and organized repo for revision
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0131-palindrome-partitioning) |
 | [0300-longest-increasing-subsequence](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0392-is-subsequence) |
@@ -311,4 +313,8 @@ Maintain a clean and organized repo for revision
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0014-longest-common-prefix) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
