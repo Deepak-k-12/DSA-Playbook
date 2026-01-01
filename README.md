@@ -67,6 +67,7 @@ Maintain a clean and organized repo for revision
 | [0046-permutations](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0051-n-queens) |
+| [0066-plus-one](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0090-subsets-ii) |
 | [0204-count-primes](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0204-count-primes) |
@@ -144,6 +145,7 @@ Maintain a clean and organized repo for revision
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0060-permutation-sequence) |
+| [0066-plus-one](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0204-count-primes) |
 | [0390-elimination-game](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0390-elimination-game) |
 | [0415-add-strings](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0415-add-strings) |
