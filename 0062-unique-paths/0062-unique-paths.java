@@ -1,10 +1,22 @@
 class Solution {
     public int uniquePaths(int m, int n) {
-        int dp[][]=new int[m][n];
+        int dp[]=new int[n];
+       
         for(int i=0;i<m;i++){
-            Arrays.fill(dp[i],-1);
+            int temp[]=new int[n];
+            for(int j=0;j<n;j++){
+                if(i==0 && j==0){temp[j]=1;}
+                else{
+                    int up=0;
+                    int left=0;
+                    if(i>0){up=dp[j];}
+                    if(j>0){left=temp[j-1];}
+                    temp[j]=up+left;
+                }
+            }
+            dp=temp;
         }
-        return backtrack(m-1,n-1,dp);
+        return dp[n-1];
     }
 
     public int backtrack(int i,int j,int [][] dp){
