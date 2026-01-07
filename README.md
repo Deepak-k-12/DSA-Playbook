@@ -69,6 +69,7 @@ Maintain a clean and organized repo for revision
 | [0047-permutations-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0090-subsets-ii) |
@@ -208,6 +209,7 @@ Maintain a clean and organized repo for revision
 | [0022-generate-parentheses](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0198-house-robber) |
@@ -264,6 +266,7 @@ Maintain a clean and organized repo for revision
 | ------- |
 | [0037-sudoku-solver](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0064-minimum-path-sum) |
 | [0840-magic-squares-in-grid](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
