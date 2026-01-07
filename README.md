@@ -228,11 +228,13 @@ Maintain a clean and organized repo for revision
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0404-sum-of-left-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0404-sum-of-left-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -243,6 +245,7 @@ Maintain a clean and organized repo for revision
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0404-sum-of-left-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Prefix Sum
 |  |
 | ------- |
