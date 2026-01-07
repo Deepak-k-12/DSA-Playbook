@@ -1,12 +1,25 @@
 class Solution {
-    public int minimumTotal(List<List<Integer>> triangle) {
-        int ind=triangle.size()-1;
+    public int minimumTotal(List<List<Integer>> tri) {
+        int ind=tri.size()-1;
         int dp[][]=new int[ind+1][ind+1];
 
         for(int i=0;i<=ind;i++){
-            Arrays.fill(dp[i],Integer.MAX_VALUE);
+            dp[ind][i]=tri.get(ind).get(i);
         }
-        return backtrack(0,0,triangle,ind,dp);
+
+        for(int i=ind-1;i>=0;i--){
+            for(int j=i;j>=0;j--){
+                int down=tri.get(i).get(j)+dp[i+1][j];
+                int dg=tri.get(i).get(j)+dp[i+1][j+1];
+
+                dp[i][j]=Math.min(down,dg);
+            }
+        }
+        return dp[0][0];
+
+        
+        
+      
     }
 
     public int backtrack(int i,int j,List<List<Integer>> tri,int ind,int [][]dp){
