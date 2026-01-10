@@ -47,6 +47,7 @@ Maintain a clean and organized repo for revision
 | [0392-is-subsequence](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0434-number-of-segments-in-a-string) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0784-letter-case-permutation](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0784-letter-case-permutation) |
 | [0874-backspace-string-compare](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0874-backspace-string-compare) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0944-delete-columns-to-make-sorted) |
@@ -224,6 +225,7 @@ Maintain a clean and organized repo for revision
 | [0213-house-robber-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0392-is-subsequence) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0918-maximum-sum-circular-subarray) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1458-max-dot-product-of-two-subsequences) |
