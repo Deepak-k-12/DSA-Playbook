@@ -91,6 +91,7 @@ Maintain a clean and organized repo for revision
 | [0989-add-to-array-form-of-integer](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0989-add-to-array-form-of-integer) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1266-minimum-time-visiting-all-points) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1289-minimum-falling-path-sum-ii) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -342,6 +343,7 @@ Maintain a clean and organized repo for revision
 ## Sliding Window
 |  |
 | ------- |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Heap (Priority Queue)
 |  |
