@@ -24,7 +24,6 @@ class Solution {
         if(last>0){
                     count+=tra[last-1];
                 }
-        System.out.println(count);
-        return count;
+           return count;
     }
 }
