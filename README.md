@@ -109,6 +109,7 @@ Maintain a clean and organized repo for revision
 | [3074-apple-redistribution-into-boxes](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -343,6 +344,7 @@ Maintain a clean and organized repo for revision
 | [0090-subsets-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0090-subsets-ii) |
 | [0645-set-mismatch](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0645-set-mismatch) |
 | [0784-letter-case-permutation](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0784-letter-case-permutation) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Linked List
 |  |
