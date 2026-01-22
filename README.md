@@ -84,6 +84,7 @@ Maintain a clean and organized repo for revision
 | [0204-count-primes](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0300-longest-increasing-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0416-partition-equal-subset-sum) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0645-set-mismatch](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0645-set-mismatch) |
 | [0840-magic-squares-in-grid](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0840-magic-squares-in-grid) |
@@ -239,6 +240,7 @@ Maintain a clean and organized repo for revision
 | [0213-house-robber-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0392-is-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0416-partition-equal-subset-sum) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0918-maximum-sum-circular-subarray) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1289-minimum-falling-path-sum-ii) |
