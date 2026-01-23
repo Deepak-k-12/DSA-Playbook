@@ -75,6 +75,7 @@ Maintain a clean and organized repo for revision
 | [0046-permutations](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0066-plus-one) |
@@ -147,6 +148,7 @@ Maintain a clean and organized repo for revision
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0055-jump-game) |
 | [0680-valid-palindrome-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0680-valid-palindrome-ii) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3074-apple-redistribution-into-boxes) |
@@ -234,6 +236,7 @@ Maintain a clean and organized repo for revision
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0022-generate-parentheses) |
+| [0055-jump-game](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0064-minimum-path-sum) |
