@@ -108,6 +108,7 @@ Maintain a clean and organized repo for revision
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -257,6 +258,7 @@ Maintain a clean and organized repo for revision
 | [1463-cherry-pickup-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1463-cherry-pickup-ii) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Binary Search
 |  |
 | ------- |
@@ -281,6 +283,7 @@ Maintain a clean and organized repo for revision
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -288,6 +291,7 @@ Maintain a clean and organized repo for revision
 | [0404-sum-of-left-leaves](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0404-sum-of-left-leaves) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -324,6 +328,7 @@ Maintain a clean and organized repo for revision
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Number Theory
 |  |
@@ -402,6 +407,7 @@ Maintain a clean and organized repo for revision
 | ------- |
 | [0070-climbing-stairs](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0070-climbing-stairs) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Geometry
 |  |
 | ------- |
@@ -422,8 +428,10 @@ Maintain a clean and organized repo for revision
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Topological Sort
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 <!---LeetCode Topics End-->
