@@ -96,6 +96,7 @@ Maintain a clean and organized repo for revision
 | [0944-delete-columns-to-make-sorted](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0944-delete-columns-to-make-sorted) |
 | [0989-add-to-array-form-of-integer](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0989-add-to-array-form-of-integer) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1266-minimum-time-visiting-all-points) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -259,6 +260,7 @@ Maintain a clean and organized repo for revision
 | [0416-partition-equal-subset-sum](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0416-partition-equal-subset-sum) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0918-maximum-sum-circular-subarray) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1463-cherry-pickup-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1463-cherry-pickup-ii) |
@@ -328,6 +330,7 @@ Maintain a clean and organized repo for revision
 | [0064-minimum-path-sum](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0064-minimum-path-sum) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0840-magic-squares-in-grid) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1463-cherry-pickup-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1463-cherry-pickup-ii) |
