@@ -12,11 +12,10 @@ class Solution {
         if(sum==tar){return 1;}
         
         if(dp[in][sum]!=-1){return dp[in][sum];}
-        int count=0;
-        for(int i=in;i<coins.length;i++){
-            count+=backtrack(i,tar,coins,sum+coins[i],dp);
-            
-        }
-        return dp[in][sum]=count;
-    }
+        
+        int pick =backtrack(in,tar,coins,sum+coins[in],dp);
+        int notpick=backtrack(in+1,tar,coins,sum,dp);
+        
+        return dp[in][sum]=pick+notpick;}
+    
 }
