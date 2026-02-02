@@ -107,6 +107,7 @@ Maintain a clean and organized repo for revision
 | [1266-minimum-time-visiting-all-points](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1266-minimum-time-visiting-all-points) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1289-minimum-falling-path-sum-ii) |
+| [1306-jump-game-iii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1306-jump-game-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -307,6 +308,7 @@ Maintain a clean and organized repo for revision
 | [0404-sum-of-left-leaves](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0404-sum-of-left-leaves) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1306-jump-game-iii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1306-jump-game-iii) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Breadth-First Search
@@ -317,6 +319,7 @@ Maintain a clean and organized repo for revision
 | [0404-sum-of-left-leaves](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0404-sum-of-left-leaves) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1306-jump-game-iii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1306-jump-game-iii) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Binary Tree
 |  |
