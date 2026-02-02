@@ -73,6 +73,7 @@ Maintain a clean and organized repo for revision
 | [0037-sudoku-solver](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0051-n-queens) |
@@ -162,6 +163,7 @@ Maintain a clean and organized repo for revision
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0055-jump-game) |
 | [0680-valid-palindrome-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0680-valid-palindrome-ii) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -254,6 +256,7 @@ Maintain a clean and organized repo for revision
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0063-unique-paths-ii) |
