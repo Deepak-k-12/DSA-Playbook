@@ -205,6 +205,7 @@ Maintain a clean and organized repo for revision
 | [0066-plus-one](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0204-count-primes) |
+| [0279-perfect-squares](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0279-perfect-squares) |
 | [0390-elimination-game](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0390-elimination-game) |
 | [0415-add-strings](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0415-add-strings) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -269,6 +270,7 @@ Maintain a clean and organized repo for revision
 | [0131-palindrome-partitioning](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0213-house-robber-ii) |
+| [0279-perfect-squares](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -317,6 +319,7 @@ Maintain a clean and organized repo for revision
 ## Breadth-First Search
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0404-sum-of-left-leaves](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0404-sum-of-left-leaves) |
