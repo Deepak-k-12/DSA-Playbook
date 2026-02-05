@@ -131,6 +131,7 @@ Maintain a clean and organized repo for revision
 | [3075-maximize-happiness-of-selected-children](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3379-transformed-array](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3379-transformed-array) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -242,6 +243,7 @@ Maintain a clean and organized repo for revision
 | [2324-find-triangular-sum-of-an-array](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3336-water-bottles-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3336-water-bottles-ii) |
+| [3379-transformed-array](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [4051-remove-zeros-in-decimal-representation](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/4051-remove-zeros-in-decimal-representation) |
