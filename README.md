@@ -302,6 +302,7 @@ Maintain a clean and organized repo for revision
 ## Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0110-balanced-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0404-sum-of-left-leaves) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -310,6 +311,7 @@ Maintain a clean and organized repo for revision
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0110-balanced-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0257-binary-tree-paths) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0404-sum-of-left-leaves](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0404-sum-of-left-leaves) |
@@ -332,6 +334,7 @@ Maintain a clean and organized repo for revision
 ## Binary Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0110-balanced-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0404-sum-of-left-leaves) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
