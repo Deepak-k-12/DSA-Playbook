@@ -32,6 +32,7 @@ Maintain a clean and organized repo for revision
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-coupon-code-validator](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3719-longest-balanced-subarray-i](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3719-longest-balanced-subarray-i) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [4045-longest-balanced-subarray-i](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/4045-longest-balanced-subarray-i) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/4080-smallest-missing-multiple-of-k) |
@@ -143,6 +144,7 @@ Maintain a clean and organized repo for revision
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3637-trionic-array-i](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3637-trionic-array-i) |
+| [3719-longest-balanced-subarray-i](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3719-longest-balanced-subarray-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3745-maximize-expression-of-three-elements) |
 | [3788-maximum-score-of-a-split](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3788-maximum-score-of-a-split) |
 | [4045-longest-balanced-subarray-i](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/4045-longest-balanced-subarray-i) |
@@ -351,6 +353,7 @@ Maintain a clean and organized repo for revision
 | [2483-minimum-penalty-for-a-shop](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3719-longest-balanced-subarray-i](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3719-longest-balanced-subarray-i) |
 | [3788-maximum-score-of-a-split](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3788-maximum-score-of-a-split) |
 | [4045-longest-balanced-subarray-i](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/4045-longest-balanced-subarray-i) |
 ## Stack
@@ -439,10 +442,12 @@ Maintain a clean and organized repo for revision
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0918-maximum-sum-circular-subarray) |
 | [1382-balance-a-binary-search-tree](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1382-balance-a-binary-search-tree) |
+| [3719-longest-balanced-subarray-i](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3719-longest-balanced-subarray-i) |
 | [4045-longest-balanced-subarray-i](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/4045-longest-balanced-subarray-i) |
 ## Segment Tree
 |  |
 | ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3719-longest-balanced-subarray-i) |
 | [4045-longest-balanced-subarray-i](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/4045-longest-balanced-subarray-i) |
 ## Monotonic Queue
 |  |
