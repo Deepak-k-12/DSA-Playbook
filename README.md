@@ -26,6 +26,7 @@ Maintain a clean and organized repo for revision
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -122,6 +123,7 @@ Maintain a clean and organized repo for revision
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -434,6 +436,7 @@ Maintain a clean and organized repo for revision
 | ------- |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Heap (Priority Queue)
 |  |
