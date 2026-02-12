@@ -147,6 +147,7 @@ Maintain a clean and organized repo for revision
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3637-trionic-array-i](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3637-trionic-array-i) |
+| [3693-climbing-stairs-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3693-climbing-stairs-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3719-longest-balanced-subarray-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3745-maximize-expression-of-three-elements) |
 | [3788-maximum-score-of-a-split](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3788-maximum-score-of-a-split) |
@@ -298,6 +299,7 @@ Maintain a clean and organized repo for revision
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2742-painting-the-walls](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2742-painting-the-walls) |
+| [3693-climbing-stairs-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3693-climbing-stairs-ii) |
 ## Binary Search
 |  |
 | ------- |
