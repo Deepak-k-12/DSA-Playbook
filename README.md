@@ -91,6 +91,7 @@ Maintain a clean and organized repo for revision
 | [0198-house-robber](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0213-house-robber-ii) |
+| [0274-h-index](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0274-h-index) |
 | [0300-longest-increasing-subsequence](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -191,6 +192,7 @@ Maintain a clean and organized repo for revision
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0047-permutations-ii) |
+| [0274-h-index](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0274-h-index) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0645-set-mismatch](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0645-set-mismatch) |
 | [1200-minimum-absolute-difference](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1200-minimum-absolute-difference) |
@@ -507,4 +509,8 @@ Maintain a clean and organized repo for revision
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1382-balance-a-binary-search-tree) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
