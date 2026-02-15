@@ -47,6 +47,7 @@ Maintain a clean and organized repo for revision
 | [0014-longest-common-prefix](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0022-generate-parentheses) |
+| [0067-add-binary](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0067-add-binary) |
 | [0131-palindrome-partitioning](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0131-palindrome-partitioning) |
 | [0165-compare-version-numbers](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0165-compare-version-numbers) |
 | [0205-isomorphic-strings](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0205-isomorphic-strings) |
@@ -229,6 +230,7 @@ Maintain a clean and organized repo for revision
 | [0060-permutation-sequence](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0204-count-primes) |
 | [0279-perfect-squares](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0279-perfect-squares) |
@@ -260,6 +262,7 @@ Maintain a clean and organized repo for revision
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0415-add-strings) |
 | [0874-backspace-string-compare](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0874-backspace-string-compare) |
 | [0946-validate-stack-sequences](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0946-validate-stack-sequences) |
@@ -442,6 +445,7 @@ Maintain a clean and organized repo for revision
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0090-subsets-ii) |
 | [0645-set-mismatch](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0645-set-mismatch) |
