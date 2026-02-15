@@ -71,6 +71,7 @@ Maintain a clean and organized repo for revision
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2483-minimum-penalty-for-a-shop) |
+| [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3606-coupon-code-validator](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3606-coupon-code-validator) |
 | [3713-longest-balanced-substring-i](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3713-longest-balanced-substring-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -247,6 +248,7 @@ Maintain a clean and organized repo for revision
 | [2288-count-operations-to-obtain-zero](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2396-strictly-palindromic-number](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2396-strictly-palindromic-number) |
+| [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3336-water-bottles-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3336-water-bottles-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
