@@ -58,6 +58,7 @@ Maintain a clean and organized repo for revision
 | [0415-add-strings](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0434-number-of-segments-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0516-longest-palindromic-subsequence) |
+| [0583-delete-operation-for-two-strings](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0680-valid-palindrome-ii) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -319,6 +320,7 @@ Maintain a clean and organized repo for revision
 | [0494-target-sum](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0518-coin-change-ii) |
+| [0583-delete-operation-for-two-strings](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0647-palindromic-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0746-min-cost-climbing-stairs](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0746-min-cost-climbing-stairs) |
