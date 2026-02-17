@@ -44,6 +44,7 @@ Maintain a clean and organized repo for revision
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0022-generate-parentheses) |
@@ -181,6 +182,7 @@ Maintain a clean and organized repo for revision
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0005-longest-palindromic-substring) |
 | [0165-compare-version-numbers](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0165-compare-version-numbers) |
 | [0392-is-subsequence](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0680-valid-palindrome-ii) |
@@ -293,6 +295,7 @@ Maintain a clean and organized repo for revision
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0055-jump-game) |
