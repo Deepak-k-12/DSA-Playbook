@@ -461,6 +461,7 @@ Maintain a clean and organized repo for revision
 | [0078-subsets](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0090-subsets-ii) |
 | [0645-set-mismatch](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0645-set-mismatch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0693-binary-number-with-alternating-bits) |
 | [0784-letter-case-permutation](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0784-letter-case-permutation) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3314-construct-the-minimum-bitwise-array-i) |
