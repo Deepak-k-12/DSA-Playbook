@@ -30,6 +30,7 @@ Maintain a clean and organized repo for revision
 | [2174-next-greater-numerically-balanced-number](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -149,6 +150,7 @@ Maintain a clean and organized repo for revision
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2742-painting-the-walls](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2742-painting-the-walls) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3074-apple-redistribution-into-boxes) |
@@ -180,6 +182,7 @@ Maintain a clean and organized repo for revision
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3713-longest-balanced-substring-i](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3713-longest-balanced-substring-i) |
@@ -260,6 +263,7 @@ Maintain a clean and organized repo for revision
 | [2288-count-operations-to-obtain-zero](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2396-strictly-palindromic-number](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2396-strictly-palindromic-number) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3336-water-bottles-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3336-water-bottles-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3432-count-partitions-with-even-sum-difference) |
