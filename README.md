@@ -251,6 +251,7 @@ Maintain a clean and organized repo for revision
 | [0390-elimination-game](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0390-elimination-game) |
 | [0415-add-strings](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0415-add-strings) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0840-magic-squares-in-grid](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0840-magic-squares-in-grid) |
 | [0989-add-to-array-form-of-integer](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0989-add-to-array-form-of-integer) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1266-minimum-time-visiting-all-points) |
@@ -471,6 +472,7 @@ Maintain a clean and organized repo for revision
 | [0090-subsets-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0090-subsets-ii) |
 | [0645-set-mismatch](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0784-letter-case-permutation](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0784-letter-case-permutation) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3314-construct-the-minimum-bitwise-array-i) |
