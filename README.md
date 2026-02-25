@@ -136,6 +136,7 @@ Maintain a clean and organized repo for revision
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1463-cherry-pickup-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1463-cherry-pickup-ii) |
@@ -183,6 +184,7 @@ Maintain a clean and organized repo for revision
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0387-first-unique-character-in-a-string) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -224,6 +226,7 @@ Maintain a clean and organized repo for revision
 | [0645-set-mismatch](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0645-set-mismatch) |
 | [1200-minimum-absolute-difference](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1200-minimum-absolute-difference) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -481,6 +484,7 @@ Maintain a clean and organized repo for revision
 | [0784-letter-case-permutation](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0784-letter-case-permutation) |
 | [0868-binary-gap](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0868-binary-gap) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3676-smallest-number-with-all-set-bits) |
