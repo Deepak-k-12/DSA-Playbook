@@ -9,7 +9,7 @@ class Solution {
 
     public void helper(BigInteger num,int []c){
         if(num.equals(BigInteger.valueOf(1))){return ;}
-        c[0]+=1;
+        c[0]++;
         if(num.mod(BigInteger.valueOf(2)).equals(BigInteger.valueOf(1))){
             helper(num.add(BigInteger.valueOf(1)),c);
         }
