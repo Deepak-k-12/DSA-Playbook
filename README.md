@@ -74,6 +74,7 @@ Maintain a clean and organized repo for revision
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2124-check-if-all-as-appears-before-all-bs) |
@@ -291,6 +292,7 @@ Maintain a clean and organized repo for revision
 | [0874-backspace-string-compare](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0874-backspace-string-compare) |
 | [0946-validate-stack-sequences](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0946-validate-stack-sequences) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1642-water-bottles](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1642-water-bottles) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2211-count-collisions-on-a-road](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2211-count-collisions-on-a-road) |
@@ -314,6 +316,7 @@ Maintain a clean and organized repo for revision
 | ------- |
 | [0060-permutation-sequence](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0060-permutation-sequence) |
 | [0390-elimination-game](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0390-elimination-game) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Dynamic Programming
 |  |
 | ------- |
