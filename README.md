@@ -77,6 +77,7 @@ Maintain a clean and organized repo for revision
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
