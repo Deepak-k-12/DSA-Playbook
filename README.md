@@ -21,6 +21,7 @@ Maintain a clean and organized repo for revision
 | [0037-sudoku-solver](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0037-sudoku-solver) |
 | [0205-isomorphic-strings](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0387-first-unique-character-in-a-string) |
+| [0575-distribute-candies](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0645-set-mismatch) |
 | [0840-magic-squares-in-grid](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -122,6 +123,7 @@ Maintain a clean and organized repo for revision
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0494-target-sum](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0518-coin-change-ii) |
+| [0575-distribute-candies](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0645-set-mismatch) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0746-min-cost-climbing-stairs) |
