@@ -75,6 +75,7 @@ Maintain a clean and organized repo for revision
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -515,6 +516,7 @@ Maintain a clean and organized repo for revision
 |  |
 | ------- |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
