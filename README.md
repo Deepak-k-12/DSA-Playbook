@@ -90,6 +90,7 @@ Maintain a clean and organized repo for revision
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2483-minimum-penalty-for-a-shop) |
+| [3110-score-of-a-string](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3110-score-of-a-string) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3498-reverse-degree-of-a-string](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3498-reverse-degree-of-a-string) |
