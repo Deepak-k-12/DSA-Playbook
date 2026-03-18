@@ -171,6 +171,7 @@ Maintain a clean and organized repo for revision
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [2742-painting-the-walls](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2742-painting-the-walls) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3074-apple-redistribution-into-boxes) |
@@ -431,6 +432,7 @@ Maintain a clean and organized repo for revision
 | ------- |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3719-longest-balanced-subarray-i](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3719-longest-balanced-subarray-i) |
