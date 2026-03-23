@@ -157,6 +157,7 @@ Maintain a clean and organized repo for revision
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1980-find-unique-binary-string](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1980-find-unique-binary-string) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -461,6 +462,7 @@ Maintain a clean and organized repo for revision
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1463-cherry-pickup-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1463-cherry-pickup-ii) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2244-number-of-laser-beams-in-a-bank) |
