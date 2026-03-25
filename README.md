@@ -187,6 +187,7 @@ Maintain a clean and organized repo for revision
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-coupon-code-validator](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3606-coupon-code-validator) |
@@ -442,6 +443,7 @@ Maintain a clean and organized repo for revision
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3546-equal-sum-grid-partition-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3719-longest-balanced-subarray-i) |
 | [3788-maximum-score-of-a-split](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3788-maximum-score-of-a-split) |
 | [4045-longest-balanced-subarray-i](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/4045-longest-balanced-subarray-i) |
@@ -470,6 +472,7 @@ Maintain a clean and organized repo for revision
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3643-flip-square-submatrix-vertically) |
 ## Number Theory
@@ -506,6 +509,7 @@ Maintain a clean and organized repo for revision
 | [1925-count-square-sum-triples](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1925-count-square-sum-triples) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2367-number-of-arithmetic-triplets) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3546-equal-sum-grid-partition-i) |
 | [3713-longest-balanced-substring-i](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3713-longest-balanced-substring-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3745-maximize-expression-of-three-elements) |
 ## Bit Manipulation
