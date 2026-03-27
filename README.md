@@ -142,6 +142,7 @@ Maintain a clean and organized repo for revision
 | [0944-delete-columns-to-make-sorted](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0944-delete-columns-to-make-sorted) |
 | [0946-validate-stack-sequences](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0946-validate-stack-sequences) |
 | [0989-add-to-array-form-of-integer](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0989-add-to-array-form-of-integer) |
+| [1051-height-checker](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1200-minimum-absolute-difference) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1266-minimum-time-visiting-all-points) |
@@ -251,6 +252,7 @@ Maintain a clean and organized repo for revision
 | [0274-h-index](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0274-h-index) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0645-set-mismatch](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0645-set-mismatch) |
+| [1051-height-checker](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1200-minimum-absolute-difference) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -612,6 +614,7 @@ Maintain a clean and organized repo for revision
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0274-h-index) |
+| [1051-height-checker](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1051-height-checker) |
 ## Rolling Hash
 |  |
 | ------- |
