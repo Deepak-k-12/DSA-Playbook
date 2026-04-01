@@ -127,6 +127,7 @@ Maintain a clean and organized repo for revision
 | [0198-house-robber](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0213-house-robber-ii) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0274-h-index) |
 | [0300-longest-increasing-subsequence](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0322-coin-change) |
@@ -256,6 +257,7 @@ Maintain a clean and organized repo for revision
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0047-permutations-ii) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0347-top-k-frequent-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -561,6 +563,7 @@ Maintain a clean and organized repo for revision
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0347-top-k-frequent-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -568,6 +571,7 @@ Maintain a clean and organized repo for revision
 ## Divide and Conquer
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0918-maximum-sum-circular-subarray) |
 | [1382-balance-a-binary-search-tree](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1382-balance-a-binary-search-tree) |
@@ -642,5 +646,6 @@ Maintain a clean and organized repo for revision
 ## Quickselect
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
