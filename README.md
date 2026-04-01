@@ -20,6 +20,7 @@ Maintain a clean and organized repo for revision
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0037-sudoku-solver) |
 | [0205-isomorphic-strings](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0205-isomorphic-strings) |
+| [0347-top-k-frequent-elements](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0387-first-unique-character-in-a-string) |
 | [0575-distribute-candies](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0645-set-mismatch) |
@@ -130,6 +131,7 @@ Maintain a clean and organized repo for revision
 | [0300-longest-increasing-subsequence](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0347-top-k-frequent-elements](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0347-top-k-frequent-elements) |
 | [0377-combination-sum-iv](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0416-partition-equal-subset-sum) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -210,6 +212,7 @@ Maintain a clean and organized repo for revision
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0387-first-unique-character-in-a-string) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -254,6 +257,7 @@ Maintain a clean and organized repo for revision
 | ------- |
 | [0047-permutations-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0047-permutations-ii) |
 | [0274-h-index](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0274-h-index) |
+| [0347-top-k-frequent-elements](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0347-top-k-frequent-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0645-set-mismatch](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0645-set-mismatch) |
 | [1051-height-checker](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1051-height-checker) |
@@ -557,12 +561,14 @@ Maintain a clean and organized repo for revision
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0347-top-k-frequent-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0918-maximum-sum-circular-subarray) |
 | [1382-balance-a-binary-search-tree](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3719-longest-balanced-subarray-i) |
@@ -629,4 +635,12 @@ Maintain a clean and organized repo for revision
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
