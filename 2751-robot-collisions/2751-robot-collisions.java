@@ -25,7 +25,7 @@ class Solution {
 
         for (int i : positions) {
 
-            // if (!map.containsKey(i)) continue;
+            if (!map.containsKey(i)) continue;
 
             char ch = map.get(i).y;
 
