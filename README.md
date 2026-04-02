@@ -185,6 +185,7 @@ Maintain a clean and organized repo for revision
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [2742-painting-the-walls](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2742-painting-the-walls) |
+| [2751-robot-collisions](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2751-robot-collisions) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3074-apple-redistribution-into-boxes) |
@@ -276,6 +277,7 @@ Maintain a clean and organized repo for revision
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2751-robot-collisions](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -341,6 +343,7 @@ Maintain a clean and organized repo for revision
 | [2288-count-operations-to-obtain-zero](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2751-robot-collisions](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2751-robot-collisions) |
 | [3336-water-bottles-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3336-water-bottles-ii) |
 | [3379-transformed-array](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3379-transformed-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3498-reverse-degree-of-a-string) |
@@ -473,6 +476,7 @@ Maintain a clean and organized repo for revision
 | [0874-backspace-string-compare](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0874-backspace-string-compare) |
 | [0946-validate-stack-sequences](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0946-validate-stack-sequences) |
 | [2211-count-collisions-on-a-road](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2211-count-collisions-on-a-road) |
+| [2751-robot-collisions](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2751-robot-collisions) |
 ## Matrix
 |  |
 | ------- |
