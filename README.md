@@ -90,6 +90,7 @@ Maintain a clean and organized repo for revision
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1980-find-unique-binary-string](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1980-find-unique-binary-string) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
@@ -340,6 +341,7 @@ Maintain a clean and organized repo for revision
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1642-water-bottles](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1642-water-bottles) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2211-count-collisions-on-a-road](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2211-count-collisions-on-a-road) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2288-count-operations-to-obtain-zero) |
