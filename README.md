@@ -34,6 +34,7 @@ Maintain a clean and organized repo for revision
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1980-find-unique-binary-string](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1980-find-unique-binary-string) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2182-construct-string-with-repeat-limit](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2182-construct-string-with-repeat-limit) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2367-number-of-arithmetic-triplets) |
@@ -94,6 +95,7 @@ Maintain a clean and organized repo for revision
 | [2075-decode-the-slanted-ciphertext](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2182-construct-string-with-repeat-limit](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2182-construct-string-with-repeat-limit) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2211-count-collisions-on-a-road](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2211-count-collisions-on-a-road) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -225,6 +227,7 @@ Maintain a clean and organized repo for revision
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2182-construct-string-with-repeat-limit](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2182-construct-string-with-repeat-limit) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3223-minimum-length-of-string-after-operations) |
@@ -256,6 +259,7 @@ Maintain a clean and organized repo for revision
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2182-construct-string-with-repeat-limit](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2182-construct-string-with-repeat-limit) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3745-maximize-expression-of-three-elements) |
@@ -583,6 +587,7 @@ Maintain a clean and organized repo for revision
 | [0347-top-k-frequent-elements](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0451-sort-characters-by-frequency) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2182-construct-string-with-repeat-limit](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2182-construct-string-with-repeat-limit) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Divide and Conquer
