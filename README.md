@@ -72,6 +72,7 @@ Maintain a clean and organized repo for revision
 | [0516-longest-palindromic-subsequence](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0647-palindromic-substrings) |
+| [0657-robot-return-to-origin](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0680-valid-palindrome-ii) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0771-jewels-and-stones](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0771-jewels-and-stones) |
@@ -336,6 +337,7 @@ Maintain a clean and organized repo for revision
 | ------- |
 | [0067-add-binary](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0415-add-strings) |
+| [0657-robot-return-to-origin](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0657-robot-return-to-origin) |
 | [0874-backspace-string-compare](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0874-backspace-string-compare) |
 | [0946-validate-stack-sequences](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0946-validate-stack-sequences) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
