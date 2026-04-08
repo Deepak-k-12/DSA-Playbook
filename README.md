@@ -215,6 +215,7 @@ Maintain a clean and organized repo for revision
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3637-trionic-array-i](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3637-trionic-array-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3643-flip-square-submatrix-vertically) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3693-climbing-stairs-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3693-climbing-stairs-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3719-longest-balanced-subarray-i) |
@@ -365,6 +366,7 @@ Maintain a clean and organized repo for revision
 | [3379-transformed-array](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3379-transformed-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3498-reverse-degree-of-a-string) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [4051-remove-zeros-in-decimal-representation](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/4051-remove-zeros-in-decimal-representation) |
 ## Combinatorics
@@ -604,6 +606,7 @@ Maintain a clean and organized repo for revision
 | [0347-top-k-frequent-elements](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0918-maximum-sum-circular-subarray) |
 | [1382-balance-a-binary-search-tree](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1382-balance-a-binary-search-tree) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3719-longest-balanced-subarray-i) |
 | [4045-longest-balanced-subarray-i](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/4045-longest-balanced-subarray-i) |
 ## Segment Tree
