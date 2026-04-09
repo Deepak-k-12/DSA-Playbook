@@ -355,6 +355,7 @@ Maintain a clean and organized repo for revision
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1642-water-bottles](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1642-water-bottles) |
+| [2069-walking-robot-simulation-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2211-count-collisions-on-a-road](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2211-count-collisions-on-a-road) |
@@ -681,4 +682,8 @@ Maintain a clean and organized repo for revision
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0347-top-k-frequent-elements) |
+## Design
+|  |
+| ------- |
+| [2069-walking-robot-simulation-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2069-walking-robot-simulation-ii) |
 <!---LeetCode Topics End-->
