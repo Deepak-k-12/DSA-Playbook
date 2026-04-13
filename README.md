@@ -176,6 +176,7 @@ Maintain a clean and organized repo for revision
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1980-find-unique-binary-string](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1980-find-unique-binary-string) |
