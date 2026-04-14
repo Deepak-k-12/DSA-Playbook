@@ -195,6 +195,7 @@ Maintain a clean and organized repo for revision
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2463-minimum-total-distance-traveled](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2463-minimum-total-distance-traveled) |
+| [2585-number-of-ways-to-earn-points](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2585-number-of-ways-to-earn-points) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [2742-painting-the-walls](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2742-painting-the-walls) |
 | [2751-robot-collisions](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2751-robot-collisions) |
@@ -428,6 +429,7 @@ Maintain a clean and organized repo for revision
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2463-minimum-total-distance-traveled](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2463-minimum-total-distance-traveled) |
+| [2585-number-of-ways-to-earn-points](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2585-number-of-ways-to-earn-points) |
 | [2742-painting-the-walls](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2742-painting-the-walls) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3693-climbing-stairs-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3693-climbing-stairs-ii) |
