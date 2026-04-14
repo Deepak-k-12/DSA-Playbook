@@ -31,7 +31,7 @@ class Solution {
             take=(take+backtrack(in+1,t,types[in+1][0],types[in+1][1]))%mod;
         }   
 
-        return dp[in][t][limit]=take%mod;
+        return dp[in][t][limit]=take;
 
     }
 }
