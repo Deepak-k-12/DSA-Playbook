@@ -106,6 +106,7 @@ Maintain a clean and organized repo for revision
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3110-score-of-a-string](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3110-score-of-a-string) |
@@ -195,6 +196,7 @@ Maintain a clean and organized repo for revision
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2463-minimum-total-distance-traveled](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2463-minimum-total-distance-traveled) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2585-number-of-ways-to-earn-points](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2585-number-of-ways-to-earn-points) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [2742-painting-the-walls](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2742-painting-the-walls) |
