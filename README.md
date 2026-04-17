@@ -140,6 +140,7 @@ Maintain a clean and organized repo for revision
 | [0090-subsets-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0215-kth-largest-element-in-an-array) |
@@ -467,6 +468,7 @@ Maintain a clean and organized repo for revision
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0110-balanced-binary-tree) |
+| [0200-number-of-islands](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0200-number-of-islands) |
 | [0257-binary-tree-paths](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0257-binary-tree-paths) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0404-sum-of-left-leaves](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0404-sum-of-left-leaves) |
@@ -481,6 +483,7 @@ Maintain a clean and organized repo for revision
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0200-number-of-islands) |
 | [0279-perfect-squares](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -527,6 +530,7 @@ Maintain a clean and organized repo for revision
 | [0037-sudoku-solver](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0064-minimum-path-sum) |
+| [0200-number-of-islands](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0840-magic-squares-in-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -712,5 +716,6 @@ Maintain a clean and organized repo for revision
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
