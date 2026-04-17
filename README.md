@@ -67,6 +67,7 @@ Maintain a clean and organized repo for revision
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0067-add-binary) |
+| [0072-edit-distance](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0131-palindrome-partitioning) |
 | [0165-compare-version-numbers](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0165-compare-version-numbers) |
 | [0205-isomorphic-strings](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0205-isomorphic-strings) |
@@ -408,6 +409,7 @@ Maintain a clean and organized repo for revision
 | [0063-unique-paths-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0072-edit-distance) |
 | [0120-triangle](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0198-house-robber) |
