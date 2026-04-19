@@ -178,6 +178,7 @@ Maintain a clean and organized repo for revision
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1383-maximum-performance-of-a-team](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1383-maximum-performance-of-a-team) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1463-cherry-pickup-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1463-cherry-pickup-ii) |
@@ -280,6 +281,7 @@ Maintain a clean and organized repo for revision
 | [0055-jump-game](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0055-jump-game) |
 | [0680-valid-palindrome-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0680-valid-palindrome-ii) |
 | [1382-balance-a-binary-search-tree](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1382-balance-a-binary-search-tree) |
+| [1383-maximum-performance-of-a-team](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1383-maximum-performance-of-a-team) |
 | [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -303,6 +305,7 @@ Maintain a clean and organized repo for revision
 | [1200-minimum-absolute-difference](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1200-minimum-absolute-difference) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1383-maximum-performance-of-a-team](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1383-maximum-performance-of-a-team) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -637,6 +640,7 @@ Maintain a clean and organized repo for revision
 | [0215-kth-largest-element-in-an-array](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0451-sort-characters-by-frequency) |
+| [1383-maximum-performance-of-a-team](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1383-maximum-performance-of-a-team) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1631-path-with-minimum-effort) |
 | [2182-construct-string-with-repeat-limit](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2182-construct-string-with-repeat-limit) |
