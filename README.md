@@ -184,6 +184,7 @@ Maintain a clean and organized repo for revision
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1463-cherry-pickup-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1463-cherry-pickup-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1631-path-with-minimum-effort) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -490,6 +491,7 @@ Maintain a clean and organized repo for revision
 | [1306-jump-game-iii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1306-jump-game-iii) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1382-balance-a-binary-search-tree) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1631-path-with-minimum-effort) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Breadth-First Search
@@ -507,6 +509,7 @@ Maintain a clean and organized repo for revision
 | [1091-shortest-path-in-binary-matrix](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1306-jump-game-iii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1306-jump-game-iii) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1631-path-with-minimum-effort) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Binary Tree
@@ -557,6 +560,7 @@ Maintain a clean and organized repo for revision
 | [1289-minimum-falling-path-sum-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1463-cherry-pickup-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1463-cherry-pickup-ii) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1631-path-with-minimum-effort) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -741,5 +745,6 @@ Maintain a clean and organized repo for revision
 | ------- |
 | [0200-number-of-islands](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0547-number-of-provinces) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
