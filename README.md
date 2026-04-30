@@ -241,6 +241,7 @@ Maintain a clean and organized repo for revision
 | [3719-longest-balanced-subarray-i](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3719-longest-balanced-subarray-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3745-maximize-expression-of-three-elements) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3788-maximum-score-of-a-split](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3788-maximum-score-of-a-split) |
@@ -453,6 +454,7 @@ Maintain a clean and organized repo for revision
 | [2742-painting-the-walls](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2742-painting-the-walls) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3693-climbing-stairs-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3693-climbing-stairs-ii) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Binary Search
 |  |
 | ------- |
@@ -573,6 +575,7 @@ Maintain a clean and organized repo for revision
 | [3546-equal-sum-grid-partition-i](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3643-flip-square-submatrix-vertically) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Number Theory
 |  |
 | ------- |
