@@ -151,6 +151,7 @@ Maintain a clean and organized repo for revision
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0347-top-k-frequent-elements) |
 | [0377-combination-sum-iv](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0377-combination-sum-iv) |
+| [0396-rotate-function](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0416-partition-equal-subset-sum) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0494-target-sum](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0494-target-sum) |
@@ -343,6 +344,7 @@ Maintain a clean and organized repo for revision
 | [0204-count-primes](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0204-count-primes) |
 | [0279-perfect-squares](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0279-perfect-squares) |
 | [0390-elimination-game](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0390-elimination-game) |
+| [0396-rotate-function](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0396-rotate-function) |
 | [0415-add-strings](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0415-add-strings) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -432,6 +434,7 @@ Maintain a clean and organized repo for revision
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0377-combination-sum-iv](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0392-is-subsequence) |
+| [0396-rotate-function](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0516-longest-palindromic-subsequence) |
