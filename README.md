@@ -349,6 +349,7 @@ Maintain a clean and organized repo for revision
 | [0423-reconstruct-original-digits-from-english](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0788-rotated-digits](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0788-rotated-digits) |
 | [0840-magic-squares-in-grid](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0840-magic-squares-in-grid) |
 | [0989-add-to-array-form-of-integer](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0989-add-to-array-form-of-integer) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1266-minimum-time-visiting-all-points) |
@@ -443,6 +444,7 @@ Maintain a clean and organized repo for revision
 | [0647-palindromic-substrings](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0647-palindromic-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0746-min-cost-climbing-stairs](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0746-min-cost-climbing-stairs) |
+| [0788-rotated-digits](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0788-rotated-digits) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0918-maximum-sum-circular-subarray) |
 | [1143-longest-common-subsequence](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1143-longest-common-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1277-count-square-submatrices-with-all-ones) |
