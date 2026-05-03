@@ -87,6 +87,7 @@ Maintain a clean and organized repo for revision
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0771-jewels-and-stones](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0771-jewels-and-stones) |
 | [0784-letter-case-permutation](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0784-letter-case-permutation) |
+| [0796-rotate-string](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0796-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0874-backspace-string-compare) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0944-delete-columns-to-make-sorted) |
 | [1143-longest-common-subsequence](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1143-longest-common-subsequence) |
@@ -755,4 +756,8 @@ Maintain a clean and organized repo for revision
 | [0547-number-of-provinces](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0547-number-of-provinces) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1631-path-with-minimum-effort) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
