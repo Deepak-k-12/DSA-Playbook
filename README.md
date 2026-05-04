@@ -133,6 +133,7 @@ Maintain a clean and organized repo for revision
 | [0045-jump-game-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0063-unique-paths-ii) |
@@ -337,6 +338,7 @@ Maintain a clean and organized repo for revision
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0066-plus-one) |
@@ -556,6 +558,7 @@ Maintain a clean and organized repo for revision
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0200-number-of-islands) |
