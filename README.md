@@ -271,6 +271,7 @@ Maintain a clean and organized repo for revision
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0005-longest-palindromic-substring) |
+| [0061-rotate-list](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0061-rotate-list) |
 | [0165-compare-version-numbers](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0165-compare-version-numbers) |
 | [0392-is-subsequence](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0647-palindromic-substrings) |
@@ -643,6 +644,7 @@ Maintain a clean and organized repo for revision
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0061-rotate-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Sliding Window
