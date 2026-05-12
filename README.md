@@ -17,6 +17,7 @@ Maintain a clean and organized repo for revision
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0037-sudoku-solver) |
 | [0205-isomorphic-strings](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0205-isomorphic-strings) |
@@ -64,6 +65,7 @@ Maintain a clean and organized repo for revision
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0005-longest-palindromic-substring) |
+| [0012-integer-to-roman](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0022-generate-parentheses) |
@@ -342,6 +344,7 @@ Maintain a clean and organized repo for revision
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0062-unique-paths) |
