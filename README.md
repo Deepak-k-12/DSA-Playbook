@@ -43,6 +43,7 @@ Maintain a clean and organized repo for revision
 | [2367-number-of-arithmetic-triplets](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2367-number-of-arithmetic-triplets) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2615-sum-of-distances](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2615-sum-of-distances) |
+| [2784-check-if-array-is-good](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3223-minimum-length-of-string-after-operations) |
@@ -220,6 +221,7 @@ Maintain a clean and organized repo for revision
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [2742-painting-the-walls](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2742-painting-the-walls) |
 | [2751-robot-collisions](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2751-robot-collisions) |
+| [2784-check-if-array-is-good](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2784-check-if-array-is-good) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3074-apple-redistribution-into-boxes) |
@@ -328,6 +330,7 @@ Maintain a clean and organized repo for revision
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2463-minimum-total-distance-traveled](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2751-robot-collisions) |
+| [2784-check-if-array-is-good](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3075-maximize-happiness-of-selected-children) |
