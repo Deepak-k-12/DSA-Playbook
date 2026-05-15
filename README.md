@@ -146,6 +146,7 @@ Maintain a clean and organized repo for revision
 | [0090-subsets-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0120-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0198-house-robber](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0204-count-primes) |
@@ -479,6 +480,7 @@ Maintain a clean and organized repo for revision
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0300-longest-increasing-subsequence) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
