@@ -780,4 +780,8 @@ Maintain a clean and organized repo for revision
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0796-rotate-string) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
