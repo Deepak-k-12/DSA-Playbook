@@ -42,6 +42,7 @@ Maintain a clean and organized repo for revision
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2367-number-of-arithmetic-triplets) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2540-minimum-common-value](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2615-sum-of-distances) |
 | [2784-check-if-array-is-good](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -217,6 +218,7 @@ Maintain a clean and organized repo for revision
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2463-minimum-total-distance-traveled](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2540-minimum-common-value](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2553-separate-the-digits-in-an-array) |
 | [2585-number-of-ways-to-earn-points](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2585-number-of-ways-to-earn-points) |
 | [2615-sum-of-distances](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2615-sum-of-distances) |
@@ -290,6 +292,7 @@ Maintain a clean and organized repo for revision
 | [2367-number-of-arithmetic-triplets](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2367-number-of-arithmetic-triplets) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2396-strictly-palindromic-number](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2396-strictly-palindromic-number) |
+| [2540-minimum-common-value](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2540-minimum-common-value) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3643-flip-square-submatrix-vertically) |
 ## Greedy
 |  |
@@ -486,6 +489,7 @@ Maintain a clean and organized repo for revision
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1631-path-with-minimum-effort) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2540-minimum-common-value](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2540-minimum-common-value) |
 | [3488-closest-equal-element-queries](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3488-closest-equal-element-queries) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3661-maximum-walls-destroyed-by-robots) |
