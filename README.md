@@ -46,6 +46,7 @@ Maintain a clean and organized repo for revision
 | [2615-sum-of-distances](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2615-sum-of-distances) |
 | [2784-check-if-array-is-good](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -118,6 +119,7 @@ Maintain a clean and organized repo for revision
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3110-score-of-a-string](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3110-score-of-a-string) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3223-minimum-length-of-string-after-operations) |
@@ -227,6 +229,7 @@ Maintain a clean and organized repo for revision
 | [2751-robot-collisions](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2751-robot-collisions) |
 | [2784-check-if-array-is-good](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2784-check-if-array-is-good) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2798-number-of-employees-who-met-the-target) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -709,6 +712,7 @@ Maintain a clean and organized repo for revision
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0014-longest-common-prefix) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Memoization
 |  |
 | ------- |
