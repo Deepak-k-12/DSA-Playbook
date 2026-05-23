@@ -199,6 +199,7 @@ Maintain a clean and organized repo for revision
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1631-path-with-minimum-effort) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1861-rotating-the-box](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1861-rotating-the-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1877-minimize-maximum-pair-sum-in-array) |
