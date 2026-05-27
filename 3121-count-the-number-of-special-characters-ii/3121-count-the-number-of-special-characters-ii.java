@@ -33,7 +33,7 @@ class Solution {
                 int in = lastLower[idx];
                 int in1 = firstUpper[idx];
 
-                if (in != -1 && in < in1) {
+                if (in1 != -1 && in!=-1 && in < in1) {
                     c++;
                     used[idx] = true;
                 }
