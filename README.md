@@ -804,4 +804,5 @@ Maintain a clean and organized repo for revision
 | [0511-game-play-analysis-i](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0511-game-play-analysis-i) |
 | [0577-employee-bonus](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0584-find-customer-referee) |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 <!---LeetCode Topics End-->
