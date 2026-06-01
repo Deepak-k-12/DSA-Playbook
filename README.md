@@ -813,5 +813,6 @@ Maintain a clean and organized repo for revision
 | [0595-big-countries](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0596-classes-with-at-least-5-students) |
 | [0607-sales-person](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0607-sales-person) |
+| [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
