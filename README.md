@@ -38,6 +38,7 @@ Maintain a clean and organized repo for revision
 | [2174-next-greater-numerically-balanced-number](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2182-construct-string-with-repeat-limit](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2182-construct-string-with-repeat-limit) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2367-number-of-arithmetic-triplets) |
@@ -212,6 +213,7 @@ Maintain a clean and organized repo for revision
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
@@ -515,6 +517,7 @@ Maintain a clean and organized repo for revision
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1382-balance-a-binary-search-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -563,6 +566,7 @@ Maintain a clean and organized repo for revision
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1382-balance-a-binary-search-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Prefix Sum
 |  |
 | ------- |
