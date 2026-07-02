@@ -151,6 +151,7 @@ Maintain a clean and organized repo for revision
 | [0078-subsets](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0120-triangle) |
+| [0134-gas-station](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0134-gas-station) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0198-house-robber](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0198-house-robber) |
@@ -310,6 +311,7 @@ Maintain a clean and organized repo for revision
 | ------- |
 | [0045-jump-game-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0055-jump-game) |
+| [0134-gas-station](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0134-gas-station) |
 | [0680-valid-palindrome-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0680-valid-palindrome-ii) |
 | [1382-balance-a-binary-search-tree](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1382-balance-a-binary-search-tree) |
 | [1383-maximum-performance-of-a-team](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1383-maximum-performance-of-a-team) |
