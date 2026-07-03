@@ -17,6 +17,7 @@ Maintain a clean and organized repo for revision
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0037-sudoku-solver) |
@@ -135,6 +136,7 @@ Maintain a clean and organized repo for revision
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0014-longest-common-prefix) |
 | [0037-sudoku-solver](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0039-combination-sum) |
