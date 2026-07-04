@@ -542,6 +542,7 @@ Maintain a clean and organized repo for revision
 | [1559-detect-cycles-in-2d-grid](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1631-path-with-minimum-effort) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2328-number-of-increasing-paths-in-a-grid) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -560,6 +561,7 @@ Maintain a clean and organized repo for revision
 | [1559-detect-cycles-in-2d-grid](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1631-path-with-minimum-effort) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2328-number-of-increasing-paths-in-a-grid) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Binary Tree
 |  |
 | ------- |
@@ -760,6 +762,7 @@ Maintain a clean and organized repo for revision
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0547-number-of-provinces) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2328-number-of-increasing-paths-in-a-grid) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Topological Sort
 |  |
 | ------- |
@@ -803,6 +806,7 @@ Maintain a clean and organized repo for revision
 | [0547-number-of-provinces](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0547-number-of-provinces) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1631-path-with-minimum-effort) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## String Matching
 |  |
 | ------- |
