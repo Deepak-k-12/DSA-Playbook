@@ -26,6 +26,7 @@ Maintain a clean and organized repo for revision
 | [0387-first-unique-character-in-a-string](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0387-first-unique-character-in-a-string) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0451-sort-characters-by-frequency](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0451-sort-characters-by-frequency) |
+| [0491-non-decreasing-subsequences](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0491-non-decreasing-subsequences) |
 | [0575-distribute-candies](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0771-jewels-and-stones) |
@@ -171,6 +172,7 @@ Maintain a clean and organized repo for revision
 | [0396-rotate-function](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0416-partition-equal-subset-sum) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0491-non-decreasing-subsequences](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0518-coin-change-ii) |
 | [0575-distribute-candies](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0575-distribute-candies) |
@@ -652,6 +654,7 @@ Maintain a clean and organized repo for revision
 | [0090-subsets-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0257-binary-tree-paths) |
+| [0491-non-decreasing-subsequences](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0494-target-sum) |
 | [0784-letter-case-permutation](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0784-letter-case-permutation) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
@@ -673,6 +676,7 @@ Maintain a clean and organized repo for revision
 | [0067-add-binary](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0090-subsets-ii) |
+| [0491-non-decreasing-subsequences](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0491-non-decreasing-subsequences) |
 | [0645-set-mismatch](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
