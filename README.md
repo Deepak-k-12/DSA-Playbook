@@ -189,6 +189,7 @@ Maintain a clean and organized repo for revision
 | [0946-validate-stack-sequences](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0946-validate-stack-sequences) |
 | [0989-add-to-array-form-of-integer](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0989-add-to-array-form-of-integer) |
 | [0994-rotting-oranges](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0994-rotting-oranges) |
+| [1043-partition-array-for-maximum-sum](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1043-partition-array-for-maximum-sum) |
 | [1051-height-checker](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1051-height-checker) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1200-minimum-absolute-difference](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1200-minimum-absolute-difference) |
@@ -491,6 +492,7 @@ Maintain a clean and organized repo for revision
 | [0746-min-cost-climbing-stairs](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0746-min-cost-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0788-rotated-digits) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0918-maximum-sum-circular-subarray) |
+| [1043-partition-array-for-maximum-sum](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1043-partition-array-for-maximum-sum) |
 | [1143-longest-common-subsequence](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1143-longest-common-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1289-minimum-falling-path-sum-ii) |
