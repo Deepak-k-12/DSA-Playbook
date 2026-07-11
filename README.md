@@ -846,5 +846,6 @@ Maintain a clean and organized repo for revision
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1084-sales-analysis-iii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1084-sales-analysis-iii) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1141-user-activity-for-the-past-30-days-i) |
+| [1148-article-views-i](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1148-article-views-i) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
