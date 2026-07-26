@@ -179,6 +179,7 @@ Maintain a clean and organized repo for revision
 | [0494-target-sum](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0518-coin-change-ii) |
 | [0575-distribute-candies](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0575-distribute-candies) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0645-set-mismatch) |
 | [0733-flood-fill](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0733-flood-fill) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -346,6 +347,7 @@ Maintain a clean and organized repo for revision
 | [0347-top-k-frequent-elements](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0451-sort-characters-by-frequency) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0645-set-mismatch) |
 | [1051-height-checker](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1200-minimum-absolute-difference) |
@@ -393,6 +395,7 @@ Maintain a clean and organized repo for revision
 | [0415-add-strings](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0415-add-strings) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0788-rotated-digits) |
 | [0840-magic-squares-in-grid](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0840-magic-squares-in-grid) |
