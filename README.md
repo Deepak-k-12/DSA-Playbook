@@ -125,6 +125,7 @@ Maintain a clean and organized repo for revision
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3110-score-of-a-string](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3110-score-of-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -334,6 +335,7 @@ Maintain a clean and organized repo for revision
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2182-construct-string-with-repeat-limit](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2182-construct-string-with-repeat-limit) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3745-maximize-expression-of-three-elements) |
@@ -413,6 +415,7 @@ Maintain a clean and organized repo for revision
 | [2324-find-triangular-sum-of-an-array](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2396-strictly-palindromic-number](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2396-strictly-palindromic-number) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3336-water-bottles-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3336-water-bottles-ii) |
