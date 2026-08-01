@@ -178,6 +178,7 @@ Maintain a clean and organized repo for revision
 | [0396-rotate-function](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0416-partition-equal-subset-sum) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0486-predict-the-winner](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0486-predict-the-winner) |
 | [0491-non-decreasing-subsequences](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0518-coin-change-ii) |
@@ -402,6 +403,7 @@ Maintain a clean and organized repo for revision
 | [0415-add-strings](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0415-add-strings) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0486-predict-the-winner](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0788-rotated-digits) |
@@ -470,6 +472,7 @@ Maintain a clean and organized repo for revision
 | ------- |
 | [0060-permutation-sequence](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0060-permutation-sequence) |
 | [0390-elimination-game](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0390-elimination-game) |
+| [0486-predict-the-winner](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0486-predict-the-winner) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Dynamic Programming
 |  |
@@ -497,6 +500,7 @@ Maintain a clean and organized repo for revision
 | [0392-is-subsequence](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0518-coin-change-ii) |
@@ -869,4 +873,8 @@ Maintain a clean and organized repo for revision
 | [1211-queries-quality-and-percentage](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1211-queries-quality-and-percentage) |
 | [1484-group-sold-products-by-the-date](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1484-group-sold-products-by-the-date) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
