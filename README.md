@@ -189,6 +189,7 @@ Maintain a clean and organized repo for revision
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0746-min-cost-climbing-stairs) |
 | [0840-magic-squares-in-grid](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0840-magic-squares-in-grid) |
+| [0877-stone-game](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0918-maximum-sum-circular-subarray) |
 | [0941-valid-mountain-array](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0941-valid-mountain-array) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0944-delete-columns-to-make-sorted) |
@@ -408,6 +409,7 @@ Maintain a clean and organized repo for revision
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0788-rotated-digits) |
 | [0840-magic-squares-in-grid](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0840-magic-squares-in-grid) |
+| [0877-stone-game](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0877-stone-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0989-add-to-array-form-of-integer) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1266-minimum-time-visiting-all-points) |
 | [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
@@ -509,6 +511,7 @@ Maintain a clean and organized repo for revision
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0746-min-cost-climbing-stairs](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0746-min-cost-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0788-rotated-digits) |
+| [0877-stone-game](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0918-maximum-sum-circular-subarray) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1043-partition-array-for-maximum-sum) |
 | [1143-longest-common-subsequence](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1143-longest-common-subsequence) |
@@ -877,4 +880,5 @@ Maintain a clean and organized repo for revision
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
