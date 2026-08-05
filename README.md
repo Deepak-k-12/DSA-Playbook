@@ -875,6 +875,7 @@ Maintain a clean and organized repo for revision
 | [1179-reformat-department-table](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1179-reformat-department-table) |
 | [1211-queries-quality-and-percentage](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1211-queries-quality-and-percentage) |
 | [1484-group-sold-products-by-the-date](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1484-group-sold-products-by-the-date) |
+| [1757-recyclable-and-low-fat-products](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1757-recyclable-and-low-fat-products) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Game Theory
 |  |
