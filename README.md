@@ -428,6 +428,7 @@ Maintain a clean and organized repo for revision
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3336-water-bottles-ii](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3336-water-bottles-ii) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -697,6 +698,7 @@ Maintain a clean and organized repo for revision
 | [1925-count-square-sum-triples](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/1925-count-square-sum-triples) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/2367-number-of-arithmetic-triplets) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3546-equal-sum-grid-partition-i) |
 | [3713-longest-balanced-substring-i](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3713-longest-balanced-substring-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Deepak-k-12/DSA-Playbook/tree/master/3745-maximize-expression-of-three-elements) |
